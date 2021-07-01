@@ -1,8 +1,6 @@
 
-# mieproject/Files
-    composer require mieproject/Files
+# mieproject/files
+    composer require mieproject/files
     
 # url:
-`/admin/Files`
-
-# use: `setting('key_name')`
+`/admin/files`
